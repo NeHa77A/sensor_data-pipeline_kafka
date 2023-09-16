@@ -4,7 +4,7 @@ import os
 
 import certifi
 ca = certifi.where()
-db_link ="mongodb+srv://Neha:Neha@cluster0.jsogkox.mongodb.net/"
+db_link ="mongodb+srv://Neha:<password>@cluster0.jsogkox.mongodb.net/"
 
 class MongodbOperation:
 
